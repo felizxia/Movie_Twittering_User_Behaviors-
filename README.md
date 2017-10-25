@@ -1,6 +1,8 @@
 # Movie Twittering User and Behaviors
 A Comparison of movie ratings in MovieTwittering dataset and IMDB dataset using Spark
-Motivation
+
+# Motivation
+
 The goal of this project is to analyze how twitters ratings different from IMDB’s ratings among different scales, and most importantly, trying to understand users intentions behind MovieTweeting behaviors. By doing that, we can give film companies intuitions of what type of genres are more likely to become popular in social media, why and when is the best time to do movie propagation,and etc.
 
 There are 3 major questions that will be answered in this data report.
